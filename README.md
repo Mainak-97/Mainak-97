@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/Y3jTz4H.jpeg)
+![MasterHead](https://i.imgur.com/D3gO382.jpeg)
 <h1 align="center">Hi 👋, I'm Mainak Mukherjee</h1>
 <h3 align="center">Innovative Data Analyst from India: Turning Insights into Impact</h3>
 <img align="right" alt="Coding" width=400 src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
