@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **subha.mainak@gmail.com**
 
-- ⚡ Interesting Tidbit **I’m a data explorer who believes every dataset tells a story.**
+- ⚡ Interesting Tidbit: **I’m a data explorer who believes every dataset tells a story.**
 
 <h3 align="left">Connect with Me :mag: </h3> 
 <p align="left">
