@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mainak-97&label=Profile%20views&color=0e75b6&style=flat" alt="mainak-97" /> </p>
 
-- 🌱 I’m currently mastering **Full-Stack Data Analytics**
+- 🌱 I am a **Full-Stack Data Analyst**
 
 - 📫 How to reach me **subha.mainak@gmail.com**
 
